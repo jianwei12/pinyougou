@@ -24,4 +24,5 @@
     <dubbo:application name="pinyougou-manage-web"/>
     <dubbo:registry address="zookeeper://192.168.12.168:2181"/>
     <dubbo:annotation package="com.pinyougou.manage.controller"/>
+
 </beans>
